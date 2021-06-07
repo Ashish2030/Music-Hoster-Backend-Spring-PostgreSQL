@@ -1,6 +1,6 @@
 <h1 align="center">𝐌𝐮𝐬𝐢𝐜-𝐇𝐨𝐬𝐭𝐞𝐫</h1>
 
-<p align="center">:octocat:🌟 ᴛʜɪꜱ ɪꜱ ᴍʏ ɪᴍᴀɢᴇ ʜᴏꜱᴛɪɴɢ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ʏᴏᴜʀ ᴘɪᴄᴛᴜʀᴇꜱ ꜱᴀꜰᴇʟʏ 💻 🎯🚀 <p><br>
+<p align="center">:octocat:🌟 ᴛʜɪꜱ ɪꜱ ᴍʏ ɪᴍᴀɢᴇ ʜᴏꜱᴛɪɴɢ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ʏᴏᴜʀ ᴠɪᴅᴇᴏꜱ & ᴀᴜᴅɪᴏꜱ ꜱᴀꜰᴇʟʏ 💻 🎯🚀 <p><br>
  <p align="center">
  <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/fork" target="blank">
  <img src="https://img.shields.io/github/forks/ashish2030/Music-Hoster-Backend-Spring-Boot?style=flat-square" alt="Swagger forks"/>
