@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-
 </p>
 
 
-## Contributing
+## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif"/> Contributing
 
 ### Setting-up the project
 
@@ -91,25 +91,25 @@ https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-
  
 
 
-## 💥 How to Contribute ?
+## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-homura.gif"/> How to Contribute ?
 - If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/blob/master/CONTRIBUTING.md)🤝
 - If you are completely new to Open Source, read the [Instructions](https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/blob/master/INSTRUCTIONS.md).
 - Please follow the [CODE OF CONDUCT](https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CODE_Of_CONDUCT.md)
 
-## 💥 Project Maintainers👨🏫::
+## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/> Project Maintainers👨🏫::
 
 | <img src = "https://github.com/Ashish2030/E-Commerce-Website-Using-NodeJS/blob/master/public/css/Assets/a.jpg" width = 500 height = 370> | <img src = "https://user-images.githubusercontent.com/61516051/125223627-b6f99780-e2e9-11eb-85e5-f6be4794e268.png" width = 500 height = 370> 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: 
 |                    [Project Admin](https://github.com/Ashish2030)\*                   |     [Mentor](https://github.com/MukulKolpe)\*     |
 
 
-## 💥 Our Valuable Contributors.
+## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>  Our Valuable Contributors.
 <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ashish2030/Music-Hoster-Backend-Spring-Boot" />
 	
 </a>
 
-## 💥 Open Source Programs we have been a part of:
+## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-kyoko.gif"/> Open Source Programs we have been a part of:
 <p align="center">
 <a href="https://letsgrowmore.in/soc/"><img src="https://github.com/Ashish2030/E-Commerce-Website-Using-NodeJS/blob/master/public/css/Assets/lgmsoc.png" width="25%"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://letsgrowmore.in/soc/"><img src="https://github.com/Ashish2030/E-Commerce-Website-Using-NodeJS/blob/master/public/css/Assets/output-onlinepngtools.png" width="18%"></a>
