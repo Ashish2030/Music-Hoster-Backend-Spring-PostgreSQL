@@ -4,14 +4,14 @@ Contribution Guidlines
 
 We want contributing to iRead Blog Project to be fun, enjoyable, and educational for anyone and everyone. All contributions are welcome, including issues, new docs as well as updates, and more.
 
-Please note we have a [code of conduct](https://github.com/ashutoshkrris/iRead/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+Please note we have a [code of conduct](https://github.com/Ashish2030/Music-Hoster-Backend-Spring-Boot/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 Before you begin:
 - Check out the [existing issues](https://github.com/ashutoshkris/iRead/issues).
 
 ## Don't see your issue? Open one
 
-If you spot something new, open an issue using a [template](https://github.com/ashutoshkris/iRead/issues/new/choose). We'll use the issue to have a conversation about the problem you want to fix.
+If you spot something new, open an issue using a [template](https://github.com/Ashish2030/Music-Hoster-Backend-Spring-Boot/issues/new/choose). We'll use the issue to have a conversation about the problem you want to fix.
 
 ## How to Open a Pull Request
 
@@ -77,7 +77,7 @@ Our repo is very active, so it’s likely you’ll need to update your fork with
 
 ## Fork, clone, and branch the repository
 
-* Fork the official [iRead Blog Project](https://github.com/ashutoshkrris/iRead) repository.
+* Fork the official [iRead Blog Project](https://github.com/Ashish2030/Music-Hoster-Backend-Spring-Boot) repository.
 * Clone the fork:
 	```
 	git clone https://github.com/ashutoshkrris/iRead.git
@@ -89,5 +89,5 @@ Our repo is very active, so it’s likely you’ll need to update your fork with
 <h5 align="center">
 < Happy Contributing />
 <br>
-<a href="https://ashutoshkrris.tk">Ashutosh Krishna</a> | © 2021
+<a href="https://github.com/Ashish2030">Ashish  Kumar</a> | © 2021
 </h5>
