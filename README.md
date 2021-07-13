@@ -1,38 +1,3 @@
-<h1 align="center">𝐌𝐮𝐬𝐢𝐜-𝐇𝐨𝐬𝐭𝐞𝐫</h1>
-
-<p align="center">:octocat:🌟 ᴛʜɪꜱ ɪꜱ ᴍʏ ɪᴍᴀɢᴇ ʜᴏꜱᴛɪɴɢ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ʏᴏᴜʀ ᴠɪᴅᴇᴏ & ᴀᴜᴅɪᴏꜱ ꜱᴀꜰᴇʟʏ 💻 🎯🚀 <p><br>
- <p align="center">
- <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/fork" target="blank">
- <img src="https://img.shields.io/github/forks/ashish2030/Music-Hoster-Backend-Spring-Boot?style=flat-square" alt="Swagger forks"/>
-</a>
-<a href="https://github.com/ashish2030/Swagger/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/ashish2030/Music-Hoster-Backend-Spring-Boot?style=flat-square" alt="Music-Hoster-Backend-Spring-Boot"/>
-</a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues" target="blank">
-<img src="https://img.shields.io/github/issues/ashish2030/Music-Hoster-Backend-Spring-Boot?style=flat-square" alt="Music-Hoster-Backend-Spring-Boot"/>
-</a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/ashish2030/Music-Hoster-Backend-Spring-Boot?style=flat-square" alt="Music-Hoster-Backend-Spring-Boot"/>
-</a>
-</p>
-
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Music-Hoster-Backend-Spring-Boot)](https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Music-Hoster-Backend-Spring-Boot)](https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/archive/master.zip)
-  
-
-https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-9284-06814ba17263.mp4
-
-
-
-
-<p align="center">
-    <a href="https://image-hoster-ashish.herokuapp.com/" target="blank">View Demo</a>
-    ·
-    <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues/new/choose">Request Feature</a>
-</p>
 
 <p align="center">
     <a href="https://iread.ga">
@@ -47,7 +12,7 @@ https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-
     
 <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://reactjs.org/docs/"><img src="https://img.shields.io/badge/Made%20with-ReactJS-brightgreen.svg"></a><br>
+<a href="https://reactjs.org/docs/"><img src="https://img.shields.io/badge/Made%20with-Spring Boot-brightgreen.svg"></a><br>
     
 <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/vigneshshettyin/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
@@ -62,17 +27,20 @@ https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-
 <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues"><img src="https://img.shields.io/github/issues/ashish2030/Music-Hoster-Backend-Spring-Boot?color=brightgreen"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/ashish2030/Music-Hoster-Backend-Spring-Boot?color=0059b3"></a>
 <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/pulls"><img src="https://img.shields.io/github/issues-pr/ashish2030/Music-Hoster-Backend-Spring-Boot?color=yellow"></a>
+	<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/commits/master"><img src="https://img.shields.io/github/last-commit/ashish2030/Music-Hoster-Backend-Spring-Boot"></a> 
 <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/ashish2030/Music-Hoster-Backend-Spring-Boot?color=brightgreen"></a> 
 </div>
-This is a Application Where You Can Host Your Audio Or Video Files
-
+<p align="left">:octocat:🌟 ᴛʜɪꜱ ɪꜱ ᴍʏ ɪᴍᴀɢᴇ ʜᴏꜱᴛɪɴɢ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ʏᴏᴜʀ ᴠɪᴅᴇᴏ & ᴀᴜᴅɪᴏꜱ ꜱᴀꜰᴇʟʏ 💻 🎯🚀 <p>
 
 ## Features of Music Hoster 
  Currently we support the following features :
 * Authentication and Authorization with JWT 
-* Signup Login Page
-* Update Page
-* Show Page
+* Signup Login API
+* Update API
+* Show API
+* Edit API
+* Spring Security
+	
 
 ## Technology Stack
 
@@ -86,8 +54,15 @@ This is a Application Where You Can Host Your Audio Or Video Files
 
 ## Demo
 
-https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-86c0-6d3cd3a4bd03.mp4
+https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-9284-06814ba17263.mp4
 
+<p align="center">
+    <a href="https://image-hoster-ashish.herokuapp.com/" target="blank">View Demo</a>
+    ·
+    <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues/new/choose">Request Feature</a>
+</p>
 
 
 ## Contributing
@@ -104,12 +79,10 @@ https://user-images.githubusercontent.com/61516051/125218890-7564ee80-e2e1-11eb-
   * Add a reference to the original repository
     
     `$ git remote add upstream https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot.git`
-  * Install dependencies
+  * Configure it According to your System go to application propertity file and change it
   
-    `$ yarn install`
   * You are ready to go
   
-    `$ yarn start`
   
 #### 💡️ **Pro Tip:** 
   * Always keep your master branch in sync with the main repository (by running `$ git pull upstream master` on your local master branch). 
