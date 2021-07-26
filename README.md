@@ -1,4 +1,3 @@
-
 <p align="center">
     <a href="https://iread.ga">
         <img src="https://user-images.githubusercontent.com/61516051/125219699-de993180-e2e2-11eb-8d1a-b82e3d30bc4d.png" width="35%">
@@ -10,25 +9,25 @@
 </h1>
 <div align="center">
     
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
 <a href="https://reactjs.org/docs/"><img src="https://img.shields.io/badge/Made%20with-Spring Boot-brightgreen.svg"></a><br>
     
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
 <a href="https://github.com/vigneshshettyin/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot"><img src="https://img.shields.io/github/repo-size/ashish2030/Music-Hoster-Backend-Spring-Boot.svg?label=Repo%20size&style=flat"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot"><img src="https://img.shields.io/tokei/lines/github/ashish2030/Music-Hoster-Backend-Spring-Boot?color=yellow&label=Lines%20of%20Code"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL_2.0-brightgreen.svg?v=103"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/watchers"><img src="https://img.shields.io/github/watchers/ashish2030/Music-Hoster-Backend-Spring-Boot"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL"><img src="https://img.shields.io/github/repo-size/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL.svg?label=Repo%20size&style=flat"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL"><img src="https://img.shields.io/tokei/lines/github/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL?color=yellow&label=Lines%20of%20Code"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL_2.0-brightgreen.svg?v=103"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/watchers"><img src="https://img.shields.io/github/watchers/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL"></a>
   
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/graphs/contributors"><img src="https://img.shields.io/github/contributors/ashish2030/Music-Hoster-Backend-Spring-Boot?color=brightgreen"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/stargazers"><img src="https://img.shields.io/github/stars/ashish2030/Music-Hoster-Backend-Spring-Boot?color=0059b3"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/network/members"><img src="https://img.shields.io/github/forks/ashish2030/Music-Hoster-Backend-Spring-Boot?color=yellow"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues"><img src="https://img.shields.io/github/issues/ashish2030/Music-Hoster-Backend-Spring-Boot?color=brightgreen"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/ashish2030/Music-Hoster-Backend-Spring-Boot?color=0059b3"></a>
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/pulls"><img src="https://img.shields.io/github/issues-pr/ashish2030/Music-Hoster-Backend-Spring-Boot?color=yellow"></a>
-	<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/commits/master"><img src="https://img.shields.io/github/last-commit/ashish2030/Music-Hoster-Backend-Spring-Boot"></a> 
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/ashish2030/Music-Hoster-Backend-Spring-Boot?color=brightgreen"></a> 
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/graphs/contributors"><img src="https://img.shields.io/github/contributors/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL?color=brightgreen"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/stargazers"><img src="https://img.shields.io/github/stars/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL?color=0059b3"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/network/members"><img src="https://img.shields.io/github/forks/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL?color=yellow"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/issues"><img src="https://img.shields.io/github/issues/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL?color=brightgreen"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL?color=0059b3"></a>
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/pulls"><img src="https://img.shields.io/github/issues-pr/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL?color=yellow"></a>
+	<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/commits/master"><img src="https://img.shields.io/github/last-commit/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL"></a> 
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL?color=brightgreen"></a> 
 </div>
 <p align="left">:octocat:🌟 ᴛʜɪꜱ ɪꜱ ᴍʏ ɪᴍᴀɢᴇ ʜᴏꜱᴛɪɴɢ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ʏᴏᴜʀ ᴠɪᴅᴇᴏ & ᴀᴜᴅɪᴏꜱ ꜱᴀꜰᴇʟʏ 💻 🎯🚀 <p>
 
@@ -59,9 +58,9 @@ https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-
 <p align="center">
     <a href="https://image-hoster-ashish.herokuapp.com/" target="blank">View Demo</a>
     ·
-    <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/issues/new/choose">Request Feature</a>
 </p>
 
 
@@ -78,7 +77,7 @@ https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-
     `$ cd Music-Hoster-FrontEnd-Using-React`
   * Add a reference to the original repository
     
-    `$ git remote add upstream https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot.git`
+    `$ git remote add upstream https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL.git`
   * Configure it According to your System go to application propertity file and change it
   
   * You are ready to go
@@ -92,8 +91,8 @@ https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-
 
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-homura.gif"/> How to Contribute ?
-- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/blob/master/CONTRIBUTING.md)🤝
-- If you are completely new to Open Source, read the [Instructions](https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/blob/master/INSTRUCTIONS.md).
+- If you wish to contribute kindly check the [CONTRIBUTING.md](https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/blob/master/CONTRIBUTING.md)🤝
+- If you are completely new to Open Source, read the [Instructions](https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/blob/master/INSTRUCTIONS.md).
 - Please follow the [CODE OF CONDUCT](https://github.com/Ashish2030/Music-Hoster-FrontEnd-Using-React/blob/master/CODE_Of_CONDUCT.md)
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/> Project Maintainers👨🏫::
@@ -104,8 +103,8 @@ https://user-images.githubusercontent.com/61516051/120507500-7d796680-c3e4-11eb-
 
 
 ## <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>  Our Valuable Contributors.
-<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-Boot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ashish2030/Music-Hoster-Backend-Spring-Boot" />
+<a href="https://github.com/ashish2030/Music-Hoster-Backend-Spring-PostgreSQL/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ashish2030/Music-Hoster-Backend-Spring-PostgreSQL" />
 	
 </a>
 
